@@ -20,4 +20,5 @@
 - 👀 会尝试上传我自己整理的一些笔记, 以及我自己做的一些安全相关的工具
 - 🌱 维护好团队项目, 开发出更多的优质项目
 
-![AabyssZG's GitHub stats](https://github-readme-stats.vercel.app/api?username=AabyssZG&count_private=true&show_icons=true&theme=tokyonight)
+![AabyssZG's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AabyssZG&count_private=true&show_icons=true&theme=dark)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=AabyssZG&theme=dark)](https://git.io/streak-stats)
