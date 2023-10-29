@@ -2,11 +2,11 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=AabyssZG&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" width="400">
 
-- 👋 Hi, My ID is AabyssZG, 你可以叫我曾哥
-- 👀 I'm good at 红蓝攻防和渗透测试
-- 🌱 I'm currently learning 二进制、DevSecOps
-- 💞️ My programming skills: Java、Paython、C++
-- 📫 日常活跃于各大平台, 推特ID @AabyssZG
+- 👋 Hi, My ID is [AabyssZG](https://twitter.com/AabyssZG), 你可以叫我曾哥
+- 👀 I'm good at 云安全、红蓝攻防和渗透测试
+- 🌱 I'm currently learning 区块链、DevSecOps
+- 💞️ My programming skills: Java、Python、Golang
+- 📫 日常活跃于各大平台, 推特ID [@AabyssZG](https://twitter.com/AabyssZG)
 - 👋 My Blog: [https://blog.zgsec.cn](https://blog.zgsec.cn)
 
 # About MyTeam
