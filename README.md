@@ -25,5 +25,4 @@
 # My Future
 - 👀 会尝试上传我自己整理的一些笔记, 以及我自己做的一些安全相关的工具
 - 🌱 维护好团队项目, 开发出更多的优质项目
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AabyssZG&theme=dark&border_radius=5&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+- 👋 分享优质渗透测试的骚姿势，欢迎师傅们和我交流~
