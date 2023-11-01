@@ -27,4 +27,4 @@
 - 🌱 维护好团队项目, 开发出更多的优质项目
 - 👋 分享优质渗透测试的骚姿势，欢迎师傅们和我交流~
 
-![](https://raw.githubusercontent.com/AabyssZG/AabyssZG/6b51225dda1fc1a93e5f6afb955d9347f55c4899/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/AabyssZG/AabyssZG/27104cc2c5776c372a5ea40cbe187d7ff61ab4f9/assets/github-user-contribution.svg)
