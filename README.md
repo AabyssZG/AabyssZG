@@ -26,8 +26,9 @@
 
 <table>
   <tr>
-    <td>You are visitor</td>
+    <td>🥰恭喜您成为第</td>
     <td><img src="https://profile-counter.glitch.me/AabyssZG/count.svg" alt="" /></td>
+    <td>位访客，感谢您的关注和支持~😍</td>
   </tr>
 </table>
 
