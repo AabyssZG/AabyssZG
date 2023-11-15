@@ -1,6 +1,6 @@
 # About Me
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=AabyssZG&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" width="400">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=AabyssZG&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" width="400">
 
 - 👋 Hi, My ID is [AabyssZG](https://twitter.com/AabyssZG), 你可以叫我曾哥
 - 👀 I'm good at 云安全、红蓝攻防和渗透测试
@@ -8,6 +8,14 @@
 - 💞️ My programming skills: Java、Python、Golang
 - 📫 日常活跃于各大平台, 推特ID [@AabyssZG](https://twitter.com/AabyssZG)
 - 👋 My Blog: [https://blog.zgsec.cn](https://blog.zgsec.cn)
+
+# About MyWork
+
+<img align='right' src="https://www.c-csa.cn/u_file/photo/20200609/053979bc45.png" width="300">
+
+现在我在国际云安全联盟（CSA）渗透测试工作组做云安全方面的研究
+
+云安全联盟大中华区官网：[https://www.c-csa.cn](https://www.c-csa.cn)
 
 # About MyTeam
 我是渊龙Sec安全团队的负责人，团队英文名：AabyssTeam
