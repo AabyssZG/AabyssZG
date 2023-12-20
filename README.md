@@ -19,7 +19,7 @@
 
 # About MyTeam
 
-<img align='right' src="./TeamLogo-New.jpg" width="400">
+<img align='right' src="./TeamLogo-New.jpg" width="350">
 
 我是渊龙Sec安全团队的负责人，团队英文名：AabyssTeam
 
