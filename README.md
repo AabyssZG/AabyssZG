@@ -18,9 +18,10 @@
 云安全联盟大中华区官网：[https://www.c-csa.cn](https://www.c-csa.cn)
 
 # About MyTeam
-我是渊龙Sec安全团队的负责人，团队英文名：AabyssTeam
 
-<img align='right' src="./TeamLogo.png" width="400">
+<img align='right' src="./TeamLogo-New.jpg" width="400">
+
+我是渊龙Sec安全团队的负责人，团队英文名：AabyssTeam
 
 - 团队官网：[https://www.aabyss.cn](https://www.aabyss.cn)
 - 团队导航：[https://dh.aabyss.cn](https://dh.aabyss.cn)
