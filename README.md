@@ -8,7 +8,8 @@
 - 💞️ My programming skills: Java、Python、Golang
 - 📫 日常活跃于各大平台, 推特ID [@AabyssZG](https://twitter.com/AabyssZG)
 - 👋 My Blog: [https://blog.zgsec.cn](https://blog.zgsec.cn)
-- 🌱 JetBrains OSS Developer（使用JetBrains OSS 开源许可证），感谢开源社区，感谢JetBrains
+- 🌱 JetBrains OSS Developer（使用JetBrains OSS 开源许可证进行开发）
+- 🌱 感谢Github开源社区，感谢JetBrains对 `Open source code` 做出的贡献
 
 # About MyWork
 
