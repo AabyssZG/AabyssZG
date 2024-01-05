@@ -8,8 +8,7 @@
 - 💞️ My programming skills: Java、Python、Golang
 - 📫 日常活跃于各大平台, 推特ID [@AabyssZG](https://twitter.com/AabyssZG)
 - 👋 My Blog: [https://blog.zgsec.cn](https://blog.zgsec.cn)
-- 👋 My E-Mail: 1281673283@qq.com
-- 🌱 JetBrains OSS development Request ID=30122023/13380544
+- 🌱 JetBrains OSS Developer（使用JetBrains OSS 开源许可证），感谢开源社区，感谢JetBrains
 
 # About MyWork
 
@@ -32,6 +31,7 @@
 - 团队威胁情报：[https://threat.aabyss.cn/](https://threat.aabyss.cn)
 - 💞️ 团队公众号“渊龙Sec安全团队”，欢迎各位师傅进行合作
 - 📫 我的QQ：MTI4MTY3MzI4Mw==, 如有需要可以联系我
+- 👋 MyTeam E-Mail: root@aabyss.cn
 
 # My Future
 
