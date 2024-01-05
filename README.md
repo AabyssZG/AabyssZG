@@ -9,6 +9,7 @@
 - 📫 日常活跃于各大平台, 推特ID [@AabyssZG](https://twitter.com/AabyssZG)
 - 👋 My Blog: [https://blog.zgsec.cn](https://blog.zgsec.cn)
 - 👋 My E-Mail: 1281673283@qq.com
+- 🌱 JetBrains OSS development Request ID=30122023/13380544
 
 # About MyWork
 
