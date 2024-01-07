@@ -5,11 +5,12 @@
 - 👋 Hi, My ID is [AabyssZG](https://twitter.com/AabyssZG), 你可以叫我曾哥
 - 👀 I'm good at 云安全、红蓝攻防和渗透测试
 - 🌱 I'm currently learning 区块链、DevSecOps
-- 💞️ My programming skills: Java、Python、Golang
 - 📫 日常活跃于各大平台, 推特ID [@AabyssZG](https://twitter.com/AabyssZG)
 - 👋 My Blog: [https://blog.zgsec.cn](https://blog.zgsec.cn)
 - 🌱 JetBrains OSS Developer（使用JetBrains OSS 开源许可证进行开发）
-- 🌱 感谢Github开源社区，感谢JetBrains对 `Open source code` 做出的贡献
+- 💞️ 感谢Github开源社区，感谢JetBrains对 `Open source code` 做出的贡献
+
+[![My Skills](https://skillicons.dev/icons?i=python,flask,java,spring,idea,go,aws,cloudflare,gcp,linux,raspberrypi,docker,kubernetes,bash,php,html,js,androidstudio,cpp,c,git,githubactions,md,mysql,redis,arduino,ps,pr,twitter)](https://skillicons.dev)
 
 # About MyWork
 
