@@ -7,7 +7,7 @@
 - 🌱 I'm currently learning 区块链、DevSecOps
 - 📫 日常活跃于各大平台, 推特ID [@AabyssZG](https://twitter.com/AabyssZG)
 - 👋 My Blog: [https://blog.zgsec.cn](https://blog.zgsec.cn)
-- 🌱 JetBrains OSS Developer（使用JetBrains OSS 开源许可证进行开发）
+- 🌱 JetBrains OSS Developer（使用JetBrains开源许可证）
 - 💞️ 感谢Github开源社区，感谢JetBrains对 `Open source code` 做出的贡献
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,java,spring,idea,go,aws,cloudflare,gcp,linux,raspberrypi,docker,kubernetes,bash,php,html,js,androidstudio,cpp,c,git,githubactions,md,mysql,redis,arduino,ps,pr,twitter)](https://skillicons.dev)
