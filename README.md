@@ -12,6 +12,14 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,java,spring,idea,go,aws,cloudflare,gcp,linux,raspberrypi,docker,kubernetes,bash,php,html,js,androidstudio,cpp,c,git,githubactions,md,mysql,redis,arduino,ps,pr,twitter)](https://skillicons.dev)
 
+# Advisory
+
+**经过慎重考虑和长期维护，目前已经运营完善一个比较良好的行业圈子『黑暗大门内部群』，主要提供一对一的技术问题解决和行业咨询，还提供最新网络安全相关资源资料，以及信安技术交流的情报交流平台，如果有需求可以私聊我（微信号AabyssZG）** 
+
+加入该内部社群的两个方式：
+1. 可通过提供优质资源（安全技术相关）或者能力，如果我认可可直接加入，欢迎各位大佬🤩
+2. 付费来加入，价格可议（一次性付费即是永久会员），看师傅们有无需求😉
+
 # About MyWork
 
 <img align='right' src="https://www.c-csa.cn/u_file/photo/20200609/053979bc45.png" width="300">
